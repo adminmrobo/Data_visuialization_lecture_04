@@ -6,6 +6,7 @@ function url(l){var f=location.pathname.split("/").pop()||"index.html";return ba
 function get(){try{return localStorage.getItem("dv_lang")}catch(e){return null}}function set(l){try{localStorage.setItem("dv_lang",l)}catch(e){}}
 var q=null;try{q=new URLSearchParams(location.search).get("lang")}catch(e){}if(q&&L.indexOf(q)>=0)set(q);
 var want=get();if(L.indexOf(want)<0)want=null;
+if(!want&&!q){var bl=(navigator.language||"").slice(0,2).toLowerCase();if(bl&&bl!=="ko"&&L.indexOf(bl)>=0)want=bl;}
 if(want&&want!==cur()){location.replace(url(want))}
 window.fmSetLang=function(l){set(l);if(l!==cur())location.href=url(l)};})();</script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -139,6 +140,9 @@ h1{font-size:clamp(24px,3.4vw,34px);text-shadow:3px 3px 0 #5a2fa8;margin:0 0 10p
 .mem .ph2{height:210px;display:grid;place-items:center;background:var(--deep);border:3px dashed var(--line)}
 .mem .ph2 img{max-height:200px;max-width:100%}
 .hero-img{display:block;width:min(100%,880px);height:auto;margin:28px auto 14px;background:var(--deep);border:4px solid var(--line);box-shadow:6px 6px 0 #0b0818;border-radius:6px}
+
+/* name-label contrast */
+.tag,.chat .who .tag,.tag.pink,.tag.cyan,.tag.amber{color:#1b1533!important;text-shadow:none}
 </style></head>
 <body><div class="stars"></div>
 <nav class="top" aria-label="目次"><div class="wrap">
