@@ -3,7 +3,7 @@
 <a id="korean"></a>
 ## 생성형 AI와 함께 배우는 데이터 시각화 — 4주차
 
-박사, 조수, 초파리 연구원, money-robo 네 캐릭터의 대화로 진행되는 인터랙티브 강의 페이지입니다. 이 저장소에는 4주차 전체가 담겨 있습니다 — 산업별 데이터 시각화, GICS와 X-Tech, 표현과 시각 부호화, 은행/증권 vs 핀테크, Colab 실습 5개, 윤리와 요약.
+박사, 조수, 초파리 연구원, 주판봇 네 캐릭터의 대화로 진행되는 인터랙티브 강의 페이지입니다. 이 저장소에는 4주차 전체가 담겨 있습니다 — 산업별 데이터 시각화, GICS와 X-Tech, 표현과 시각 부호화, 은행/증권 vs 핀테크, Colab 실습 5개, 윤리와 요약.
 
 바로 보기: https://adminmrobo.github.io/dv-week4/
 
@@ -68,7 +68,7 @@
 <a id="english"></a>
 ## Data Visualization with Generative AI — Week 4
 
-An interactive lecture site where four characters — Professor, Assistant, Fruit Fly Researcher, money-robo — teach through dialogue. This repository holds all of Week 4: Industry Data Visualization, GICS and X-Tech, Representation and Visual Encoding, Banks vs Fintech, Five Colab Notebooks, Ethics and Summary.
+An interactive lecture site where four characters — Professor, Assistant, Fruit Fly Researcher, AbaBot — teach through dialogue. This repository holds all of Week 4: Industry Data Visualization, GICS and X-Tech, Representation and Visual Encoding, Banks vs Fintech, Five Colab Notebooks, Ethics and Summary.
 
 Read online: https://adminmrobo.github.io/dv-week4/en/week4_index.html
 
@@ -133,7 +133,7 @@ Attribution example: Sangsun Ahn, "Data Visualization with Generative AI · Week
 <a id="chinese"></a>
 ## 与生成式AI一起学数据可视化 — 第4周
 
-由四位角色（博士、助手、果蝇研究员、money-robo）的对话展开的互动式讲义页面。本仓库收录第4周全部内容：产业数据可视化, GICS与X-Tech, 表达方式与视觉编码, 银行/证券 vs 金融科技, Colab实操5例, 伦理与总结。
+由四位角色（博士、助手、果蝇研究员、算盘宝）的对话展开的互动式讲义页面。本仓库收录第4周全部内容：产业数据可视化, GICS与X-Tech, 表达方式与视觉编码, 银行/证券 vs 金融科技, Colab实操5例, 伦理与总结。
 
 在线阅读: https://adminmrobo.github.io/dv-week4/zh/week4_index.html
 
@@ -198,7 +198,7 @@ Attribution example: Sangsun Ahn, "Data Visualization with Generative AI · Week
 <a id="japanese"></a>
 ## 生成AIと学ぶデータ可視化 — 第4週
 
-博士・アシスタント・ショウジョウバエ研究員・money-roboの4人のキャラクターの対話で進むインタラクティブな講義ページです。このリポジトリは第4週全体（産業別データ可視化, GICSとX-Tech, 表現と視覚エンコーディング, 銀行/証券 vs フィンテック, Colab実習5例, 倫理とまとめ）を収めています。
+博士・アシスタント・ショウジョウバエ研究員・アバボットの4人のキャラクターの対話で進むインタラクティブな講義ページです。このリポジトリは第4週全体（産業別データ可視化, GICSとX-Tech, 表現と視覚エンコーディング, 銀行/証券 vs フィンテック, Colab実習5例, 倫理とまとめ）を収めています。
 
 オンラインで読む: https://adminmrobo.github.io/dv-week4/ja/week4_index.html
 
@@ -263,7 +263,7 @@ Attribution example: Sangsun Ahn, "Data Visualization with Generative AI · Week
 <a id="uzbek"></a>
 ## Generativ AI bilan maʼlumot vizualizatsiyasi — 4-hafta
 
-Professor, Yordamchi, Drozofila tadqiqotchisi, money-robo — toʻrt qahramon suhbati orqali olib boriladigan interaktiv maʼruza sahifalari. Bu omborda 4-hafta toʻliq bor: Tarmoqlar bo'yicha vizualizatsiya, GICS va X-Tech, Ifoda va vizual kodlash, Bank vs Fintech, Beshta Colab daftari, Etika va xulosa.
+Professor, Yordamchi, Drozofila tadqiqotchisi, AbaBot — toʻrt qahramon suhbati orqali olib boriladigan interaktiv maʼruza sahifalari. Bu omborda 4-hafta toʻliq bor: Tarmoqlar bo'yicha vizualizatsiya, GICS va X-Tech, Ifoda va vizual kodlash, Bank vs Fintech, Beshta Colab daftari, Etika va xulosa.
 
 Onlayn oʻqish: https://adminmrobo.github.io/dv-week4/uz/week4_index.html
 
@@ -328,7 +328,7 @@ Manba koʻrsatish namunasi: Sangsun Ahn, “Generativ AI bilan maʼlumot vizuali
 <a id="russian"></a>
 ## Визуализация данных с генеративным ИИ — Неделя 4
 
-Интерактивные страницы лекций, где материал подают четыре персонажа (Профессор, Ассистент, Исследователь-дрозофила, money-robo) в форме диалога. В этом репозитории вся неделя 4: Визуализация по отраслям, GICS и X-Tech, Способы представления и визуальное кодирование, Банки vs финтех, Пять ноутбуков Colab, Этика и итоги.
+Интерактивные страницы лекций, где материал подают четыре персонажа (Профессор, Ассистент, Исследователь-дрозофила, АбаБот) в форме диалога. В этом репозитории вся неделя 4: Визуализация по отраслям, GICS и X-Tech, Способы представления и визуальное кодирование, Банки vs финтех, Пять ноутбуков Colab, Этика и итоги.
 
 Читать онлайн: https://adminmrobo.github.io/dv-week4/ru/week4_index.html
 
